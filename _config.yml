@@ -37,6 +37,9 @@ navigation:
 - text: Map
   internal: true
   url: map.html
+- text: Data
+  internal: true
+  url: data.html
 - text: Ward 1
   internal: true
   url: ward-1.html
