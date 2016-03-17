@@ -95,15 +95,13 @@ h4 {
 
 .dmpedtable thead, .dmpedtable tbody { 
     display: block; 
+    max-height: 475px;
     width: 475px;
     overflow-y: auto;    /* Trigger vertical scroll    */
     overflow-x: hidden;  /* Hide the horizontal scroll */
 }
 
-.dmpedtable tbody { 
-    display: block; 
-    height: 475px;
-}
+
 
 
 /*
